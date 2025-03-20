@@ -1,0 +1,14 @@
+H1 {
+	color: navy;
+	text-align: center;
+}
+H2 {
+	color: rgb(0, 0, 0);
+}
+body {
+	background-color: rgb(190, 190, 190) ;
+}
+.classe {
+	background-color: yellow;
+	color: red;
+}
